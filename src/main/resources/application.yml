@@ -1,0 +1,5 @@
+customVars:
+  authCode: xyz458
+  devName: Takuya
+server:
+  port: 4500
